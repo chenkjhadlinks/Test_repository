@@ -24,6 +24,8 @@
     NSLog(@"凯杰 福慧顺 ");
     
     NSLog(@"你好 ");
+    
+    NSLog(@" 1 ");
 }
 
 - (void)didReceiveMemoryWarning {
